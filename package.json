@@ -1,0 +1,26 @@
+{
+  "name": "google-cal-zoom-api",
+  "version": "1.0.0",
+  "description": "This pacakge will allow you to generate a zoom meet link and use that link to create a event in the google calendar",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzVort3x1/google-cal-zoom-api.git"
+  },
+  "keywords": [
+    "google",
+    "zoom",
+    "google-calendar",
+    "google-api",
+    "zoom-api"
+  ],
+  "author": "kaustubh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itzVort3x1/google-cal-zoom-api/issues"
+  },
+  "homepage": "https://github.com/itzVort3x1/google-cal-zoom-api#readme"
+}
