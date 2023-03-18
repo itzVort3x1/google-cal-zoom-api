@@ -38,7 +38,6 @@ async function zoom(options) {
 
 	requestPromise(options2)
 		.then(function (response) {
-			console.log("response is: ", response);
 			generatedZoomLink = response.join_url;
 			start_url = response.start_url;
 			password = response.password;
